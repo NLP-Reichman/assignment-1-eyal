@@ -14,7 +14,12 @@
     "en_on_tl": 70.61,
     "en_on_nl": 61.43
   },
-  "test_match": "KeyError('source')",
+  "test_match":  {
+    "df_shape": [256, 4],
+    "en_en_3": 8.895281101347683,
+    "en_tl_3": 25.57051097932592,
+    "en_nl_3": 25.36780826089369
+  },
   "test_generate": {
     "english_2_gram": "I ama soigBlo htar  w\u2728 j",
     "english_3_gram": "I ama co/on of the ane: ",
