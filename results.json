@@ -9,24 +9,27 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 26.75,
-    "en_on_fr": 58.51,
-    "en_on_tl": 70.61,
-    "en_on_nl": 61.43
+    "en_on_en": 26.74,
+    "en_on_fr": 58.49,
+    "en_on_tl": 70.59,
+    "en_on_nl": 61.41
   },
-  "test_match":  {
-    "df_shape": [256, 4],
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
     "en_en_3": 8.895281101347683,
-    "en_tl_3": 25.57051097932592,
-    "en_nl_3": 25.36780826089369
+    "en_tl_3": 25.569043777257892,
+    "en_nl_3": 25.36612962063553
   },
   "test_generate": {
-    "english_2_gram": "I ama soigBlo htar  w\u2728 j",
-    "english_3_gram": "I ama co/on of the ane: ",
-    "english_4_gram": "I Love is Now good epined?",
-    "spanish_2_gram": "Soy p",
-    "spanish_3_gram": "Soy pos https://t.corqu",
-    "french_2_gram": "Je suis voui",
-    "french_3_gram": "Je suis vouvanLucorme C'ess"
+    "english_2_gram": "I amps: #THotrse l ano/t",
+    "english_3_gram": "I ampash THEY TEN 11830,",
+    "english_4_gram": "I Loveryars: [FOTOS) #neve",
+    "spanish_2_gram": "Soy ya, ti htte l dibbu",
+    "spanish_3_gram": "Soy y tasi https://t.co",
+    "french_2_gram": "Je suisarrZy'@BT Fi locile:",
+    "french_3_gram": "Je suis r\u00e9s 2-3\u2026"
   }
 }
